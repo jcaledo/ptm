@@ -1,7 +1,7 @@
 Package: ptm
 Type: Package
 Title: Analyses of Protein Post-Translational Modifications
-Version: 0.1.0
+Version: 0.1.1
 Author: Juan Carlos Aledo [au, cre]
 Maintainer: Juan Carlos Aledo <caledo@uma.es>
 Description: Utilities that will assist you in the analysis of protein Post-Translational Modifications (PTMs), 
